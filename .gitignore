@@ -1,0 +1,13 @@
+# Entornos virtuales
+venv/
+env/
+__pycache__/
+
+# Archivos de distribución de Python
+build/
+dist/
+*.egg-info/
+
+# Archivos del sistema
+.DS_Store
+.vscode/
